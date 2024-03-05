@@ -2,6 +2,9 @@
 
 ## Part 1/3: Introduction to Git Basics: Local Repository
 
+In this task, you will install Git, configure it with your name and email. Please follow these [instructions](./git.md)
+
+
 ### Objective: 
 
 To familiarize beginners with the fundamental Git commands and workflow including `git init`, `git add`, `git commit`, and `git status`.
