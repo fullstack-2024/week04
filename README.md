@@ -10,7 +10,15 @@
 ### Tuesday Morning
 
 - Separation of concerns: HTML/CSS/JS
+### Git and Markdown
+
 - [Git]
+  - [used for Linux](https://github.com/torvalds/linux)
+  - Versioning, collaboration, 
+  - [Working Tree, Staging Area, and Local Repo]
+  - [Staging vs. Committing]
+  - Git how-to: [www](https://githowto.com), [src](https://github.com/GitHowTo/githowto-content)
+  - More on Git later (e.g Branching, [visualizing-git])
   - [Workflow]
   - git `init`, `add`, `commit`,  
   - [Recap](./git.md)
@@ -38,3 +46,9 @@
 [Git]:https://www.atlassian.com/git/tutorials/setting-up-a-repository
 [Workflow]:https://dev.to/mollynem/git-github--workflow-fundamentals-5496
 [Zoom Recording]:https://metropoliafi-my.sharepoint.com/:f:/g/personal/samiben_metropolia_fi/EiktfOBSrjFBgNszR4lEr8QBeDl7CcmwQV0E3E8TSx4dVA?e=Mwrkmn
+[githowto.com]:https://githowto.com
+[Learn Git]:https://www.atlassian.com/git
+[Staging vs. Committing]:https://practicalgit.com/blog/staging-vs-commit.html
+[visualizing-git]:https://git-school.github.io/visualizing-git/
+[Understanding Staging Area]:https://tecadmin.net/git-staging-area-explained/
+[Working Tree, Staging Area, and Local Repo]:https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018
