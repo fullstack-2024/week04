@@ -1,7 +1,5 @@
 # Activity 1: Git Basics
 
-## Part 1/3: Introduction to Git Basics: Local Repository
-
 In this task, you will install Git, configure it with your name and email. Please follow these [instructions](./git.md)
 
 

@@ -1,4 +1,4 @@
-#
+# Activity 3: 
 
 1. **Open Visual Studio Code (VSCode):**
    - In VSCode, locate and open the `styles3.css` file found within the starter folder.

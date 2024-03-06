@@ -31,13 +31,41 @@
 
 ### Thursday Morning
 
+- Commands
+  - whoami
+  - man
+  - clear
+  - intro to options
+  - pwd
+  - ls
+  - cd
+  - mkdir
+  - touch
+  - rmdir
+  - rm
+  - open
+  - mv
+  - cp
+  - head
+  - tail
+  - date
+  - redirecting standard output
+  - cat
+  - less
+  - echo
+  - wc
+  - piping
 - Activities
   - [Activity 4](./activity4.md)
   - [Activity 5](./activity5.md)
-  - [Activity 6](./activity6.md)
+-  The 50 Most Popular Linux & Terminal Commands
+  - [Video from start till 2:01:00](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+  - [Reading](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+
 ### Thursday Afternoon
 
 - Activities
+  - [Activity 6](./activity6.md)
   - [Activity 7](./activity7.md)
   - [Activity 8](./activity8.md)
   - [Activity 9](./activity9.md)
