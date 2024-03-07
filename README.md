@@ -31,6 +31,7 @@
 
 ### Thursday Morning
 
+- `Template for weeks 3-4 in OMA`
 - Commands
   - whoami
   - man
@@ -58,12 +59,19 @@
 - Activities
   - [Activity 4](./activity4.md)
   - [Activity 5](./activity5.md)
--  The 50 Most Popular Linux & Terminal Commands
+- The 50 Most Popular Linux & Terminal Commands
   - [Video from start till 2:01:00](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
   - [Reading](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 
 ### Thursday Afternoon
 
+- GitHub
+- DOM
+  - [Dom Nodes], [DOM Live Viewer]
+  - [Walking the DOM]
+  - [getElement*, querySelector*]
+  - [Browser environment, specs]
+- [Introduction to browser events]
 - Activities
   - [Activity 6](./activity6.md)
   - [Activity 7](./activity7.md)
@@ -71,6 +79,13 @@
   - [Activity 9](./activity9.md)
 
 <!-- Links -->
+[DOM Live Viewer]:https://software.hixie.ch/utilities/js/live-dom-viewer/
+[Dom Nodes]:https://javascript.info/dom-nodes
+[Walking the DOM]:https://javascript.info/dom-navigation
+[getElement*, querySelector*]:https://javascript.info/searching-elements-dom
+[Browser environment, specs]:https://javascript.info/browser-environment
+[Introduction to browser events]:https://javascript.info/introduction-browser-events
+
 [Git]:https://www.atlassian.com/git/tutorials/setting-up-a-repository
 [Workflow]:https://dev.to/mollynem/git-github--workflow-fundamentals-5496
 [Zoom Recording]:https://metropoliafi-my.sharepoint.com/:f:/g/personal/samiben_metropolia_fi/EiktfOBSrjFBgNszR4lEr8QBeDl7CcmwQV0E3E8TSx4dVA?e=Mwrkmn

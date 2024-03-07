@@ -1,6 +1,6 @@
 # Activity 4: Introduction to Linux Command Line
 
-## Part 1: Commands Covered:
+## Part 1/3: Commands Covered:
 
 - `whoami`: Display current user name
 - `man`: Access the manual pages for commands
@@ -60,7 +60,7 @@
 - Use `ls` to confirm that the directory has been created.
 
 -----------
-## Part 2: Commands Covered:
+## Part 2/3: Commands Covered:
 
 - `touch`: Create empty files or update file timestamps
 - `rmdir`: Remove empty directories
@@ -107,7 +107,7 @@
 
 
 -----------
-## Part 3: Commands Covered:
+## Part 3/3: Commands Covered:
 
 ## Commands Covered:
 

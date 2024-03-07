@@ -1,16 +1,11 @@
 # Activity 6
 
+> Please follow these [instructions](./git.md), if you did not configure git with your name and email.
+
 > During this activity, it's possible that some of you may encounter difficulties with GitHub authentication. This presents an excellent opportunity for group collaboration and an initial step in problem-solving, as you'll soon be developers. Part of the learning process involves learning how to seek solutions.
 
-These activity is designed to help you install and configure Git,  create a Markdown README.md file, and a GitHub repository:
 
-### Task 1
-
-In this task, you will install Git, configure it with your name and email, and connect to GitHub using a personal access token.
-
-Please follow these [instructions](./git.md)
-
-### Task 2: Creating a GitHub Repository
+### Task 1: Creating a GitHub Repository
 
 In this task, you will create a GitHub repository for your project without initializing the README file.
 
@@ -22,10 +17,10 @@ In this task, you will create a GitHub repository for your project without initi
 
 4. Make sure to **uncheck** the option "Initialize this repository with a README."
 
-5. Optionally, choose a license and add a `.gitignore` file if needed.
+<!-- 5. Optionally, choose a license and add a `.gitignore` file if needed. -->
 
-6. Click the "Create repository" button.
-7.  follow the guidelines:
+5. Click the "Create repository" button.
+6.  follow the guidelines:
 ```sh
 echo "# Readings" >> README.md
 git init
@@ -36,7 +31,7 @@ git remote add origin https://github.com/???/???
 git push -u origin main
 ```
 
-### Task 3: Edit the README.md File
+### Task 2: Edit the README.md File
 
 In this task, you will edit the `README.md` file and push your changes to GitHub
 

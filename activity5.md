@@ -1,6 +1,6 @@
 # Activity 5: Creating Directories, Subdirectories, and Files using Linux CLI & Initializing Git
 
-## Part 1
+## Part 1/3
 
 In this part, we will learn how to create directories, subdirectories, and files using the Linux command line interface (CLI). Additionally, we will explore how to initialize a Git repository, add files, and commit changes.
 
@@ -42,7 +42,7 @@ In this part, we will learn how to create directories, subdirectories, and files
   ```
 
 -----
-## Part 2
+## Part 2/3
 
 In this lab, we will expand on the previous exercise by creating multiple directories, each containing some files, using the Linux command line interface (CLI). Additionally, we will initialize a Git repository, add files, and commit changes.
 
@@ -88,7 +88,7 @@ In this lab, we will expand on the previous exercise by creating multiple direct
   ```
 
 -----
-## Part 3
+## Part 3/3
 
 In this part, we will enhance the previous exercise by not only creating multiple directories with files but also using additional commands such as `echo`, `cat`, and `ls` to generate content for files. We will accomplish this using the Linux command line interface (CLI) and initialize a Git repository to track our changes.
 
