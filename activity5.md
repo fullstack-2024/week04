@@ -23,6 +23,9 @@ In this part, we will learn how to create directories, subdirectories, and files
   ```
 
 ### 2. Initializing Git:
+> To configure Git with your name and email, please follow these [instructions](./git.md).
+
+
 - Ensure you are inside the `dev-2024-03-07` directory.
 - Use the following command to initialize a Git repository:
   ```
