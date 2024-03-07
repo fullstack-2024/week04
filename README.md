@@ -32,6 +32,7 @@
 ### Thursday Morning
 
 - `Template for weeks 3-4 in OMA`
+- [Homework for week 5](./Homework.md)
 - Commands
   - whoami
   - man
