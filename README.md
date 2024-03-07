@@ -74,7 +74,7 @@
 - [Introduction to browser events]
 - Activities
   - [Activity 6](./activity6.md)
-  - [Activity 7](./activity7.md)
+  - [Activity 7](./Activity7.md)
   - [Activity 8](./activity8.md)
   - [Activity 9](./activity9.md)
 
