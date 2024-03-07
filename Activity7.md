@@ -4,7 +4,7 @@
 
 This part illustrates the usage of `getElementById`, `querySelectorAll`, and `querySelector` methods for DOM manipulation.
 
-0. **Setup**
+0. **Setup** 
 
 - **Create the Folder**:
    - Launch Visual Studio Code on your computer.
