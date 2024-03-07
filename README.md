@@ -33,6 +33,7 @@
 
 - `Template for weeks 3-4 in OMA`
 - [Homework for week 5](./Homework.md)
+- [Reading](https://github.com/fullstack-2024/Reading/tree/main/Linux)
 - Commands
   - whoami
   - man
